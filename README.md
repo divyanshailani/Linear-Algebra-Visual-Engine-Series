@@ -17,7 +17,12 @@
 
 ### 01. LA-Visual-Engine
 
-<div align="center"><img src="INSERT_GIF_LINK_HERE" width="100%"/></div>
+<table width="100%">
+<tr>
+<td width="50%"><div align="center"><img src="assets/01_rotate.gif" width="100%"/></div></td>
+<td width="50%"><div align="center"><img src="assets/01_shear.gif" width="100%"/></div></td>
+</tr>
+</table>
 
 > **Proof of Concept:** Vectors aren't just lists of numbers; they are spatial directions that can be manipulated and scaled.
 > 
@@ -29,7 +34,12 @@
 
 ### 02. LA-Visual-Engine-3D
 
-<div align="center"><img src="INSERT_GIF_LINK_HERE" width="100%"/></div>
+<table width="100%">
+<tr>
+<td width="50%"><div align="center"><img src="assets/02_rotate.gif" width="100%"/></div></td>
+<td width="50%"><div align="center"><img src="assets/02_scale.gif" width="100%"/></div></td>
+</tr>
+</table>
 
 > **Proof of Concept:** A matrix is a linear transformation of space, uniquely determined by where it sends the basis vectors î, ĵ, and k̂.
 >
@@ -41,7 +51,12 @@
 
 ### 03. Basis-Translator-3D
 
-<div align="center"><img src="INSERT_GIF_LINK_HERE" width="100%"/></div>
+<table width="100%">
+<tr>
+<td width="50%"><div align="center"><img src="assets/03_standard.gif" width="100%"/></div></td>
+<td width="50%"><div align="center"><img src="assets/03_stretch.gif" width="100%"/></div></td>
+</tr>
+</table>
 
 > **Proof of Concept:** The same physical vector has different coordinates depending on your chosen coordinate system (basis).
 >
@@ -53,7 +68,12 @@
 
 ### 04. Cramers-Rule-3D
 
-<div align="center"><img src="INSERT_GIF_LINK_HERE" width="100%"/></div>
+<table width="100%">
+<tr>
+<td width="50%"><div align="center"><img src="assets/04_clean.gif" width="100%"/></div></td>
+<td width="50%"><div align="center"><img src="assets/04_skewed.gif" width="100%"/></div></td>
+</tr>
+</table>
 
 > **Proof of Concept:** Solving a linear system is finding the ratio of transformed volumes.
 >
@@ -65,7 +85,12 @@
 
 ### 05. Eigenvector-Explorer-3D
 
-<div align="center"><img src="INSERT_GIF_LINK_HERE" width="100%"/></div>
+<table width="100%">
+<tr>
+<td width="50%"><div align="center"><img src="assets/05_symmetric.gif" width="100%"/></div></td>
+<td width="50%"><div align="center"><img src="assets/05_stretch.gif" width="100%"/></div></td>
+</tr>
+</table>
 
 > **Proof of Concept:** Eigenvectors are the specific axes of space that remain completely stable during a transformation, with eigenvalues being their stretch factor.
 >
